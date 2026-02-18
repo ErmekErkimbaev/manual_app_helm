@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: ermek1988/manual-app
+  repository: ermek1988/k8s-manual-lab
   tag: "9"
   pullPolicy: Always
 
